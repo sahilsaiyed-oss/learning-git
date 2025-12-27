@@ -1,2 +1,2 @@
-# Python-
-This is my first python program
+# Learning Git-
+This is my first git  program
